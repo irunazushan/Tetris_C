@@ -1,0 +1,10 @@
+Running suite tetris_logic
+test/tetris_logic_test.c:13:P:core_of_tetris_logic:tetris_logic_test_1:0: Passed
+test/tetris_logic_test.c:29:P:core_of_tetris_logic:tetris_logic_test_2:0: Passed
+test/tetris_logic_test.c:36:P:core_of_tetris_logic:tetris_logic_test_3:0: Passed
+test/tetris_logic_test.c:58:P:core_of_tetris_logic:tetris_logic_test_4:0: Passed
+test/tetris_logic_test.c:75:P:core_of_tetris_logic:tetris_logic_test_5:0: Passed
+test/tetris_logic_test.c:93:P:core_of_tetris_logic:tetris_logic_test_6:0: Passed
+test/tetris_logic_test.c:110:P:core_of_tetris_logic:tetris_logic_test_7:0: Passed
+Results for all suites run:
+100%: Checks: 7, Failures: 0, Errors: 0
