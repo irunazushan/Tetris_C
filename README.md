@@ -1,8 +1,8 @@
-# BrickGame Tetris
+# Tetris_C
 
 ![tetris](images/game.png)
 
-_Developed by @convictw_
+_Implementation of the Tetris game on C by @irunazushan_
 
 ### Requrements for installing:
 * gcc
